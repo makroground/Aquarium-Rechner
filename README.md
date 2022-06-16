@@ -15,11 +15,11 @@ Diese App ist ein vereinfachter Taschenrechner, der eine seiner Aufgabe angepass
 
 Zur Berechnung werden folgende Werte benötigt:
 
- • Nettowassermenge im Aquarium
- • Menge des Wasserwechsels
- • GH oder KH Wert im Aquarium
- • GH oder KH Wert des örtlichen Leitungswassers
- • Zielwert der gewünschten Härte
+ - Nettowassermenge im Aquarium
+ - Menge des Wasserwechsels
+ - GH oder KH Wert im Aquarium
+ - GH oder KH Wert des örtlichen Leitungswassers
+ - Zielwert der gewünschten Härte
 
 
 Sowohl die Gesamthärte (GH), als auch die Karbonathärte (KH) kann als Maßgabe beim Wasserverschnitt dienen. Für ein gesundes Pflanzenbiotop wird eine Karbonathärte zwischen 4 und 6 °dH empfohlen.
