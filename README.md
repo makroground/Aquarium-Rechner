@@ -1,5 +1,5 @@
 # Aquarium Rechner
-... ist eine Android App in Google Play Store.
+... ist eine Android App in Google Play Store. [Link](https://play.google.com/store/apps/details?id=de.makroground.aquariumrechner_wasserverschneiden)
 
 # Beschreibung
 Du bist ein Aquarianer und in deinem Becken kommt das Prinzip des Wasserverschnitts mit Osmosewasser bereits zur Anwendung oder du denkst darüber nach? 
