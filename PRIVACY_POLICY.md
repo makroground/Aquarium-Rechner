@@ -11,7 +11,7 @@ Es ist irritierend bis nicht nachvollziehbar, wenn Apps deine Daten sammeln, ohn
 
 Diese App wurde nicht entwickelt, um personenbezogene oder auch nur persönliche Daten zu erfassen, zu übertragen und dann außerhalb deines Gerätes zu verarbeiten. Alle Daten (gespeicherte Werte zu deinen Aquarien, Einstellungen, etc.) werden nur lokal auf deinem Gerät gespeichert und können jederzeit durch die Deinstallation der App  vollständig von diesem bereinigt werden.
 
-Sollten dennoch Sicherheitsschwachstellen ersichtlich sein oder Fragen dazu bestehen, wie meine App deine Daten schützt, schreib mir gerne eine E-Mail. Ich gebe mein Bestes mich dem Anliegen anzunehmen.
+Sollten dennoch Sicherheitsschwachstellen ersichtlich sein oder Fragen dazu bestehen, wie meine App deine Daten schützt, schreib mir gerne eine E-Mail. Ich werde mein Bestes mich dem Anliegen zufriedenstellend anzunehmen.
 
 Freundliche Grüße
 Ricardo Breßler
