@@ -1,4 +1,4 @@
-# Aquarium Rechner
+# Aquarium Rechner - Wasser verschneiden
 ... ist eine Android App in Google Play Store. [Link](https://play.google.com/store/apps/details?id=de.makroground.aquariumrechner_wasserverschneiden)
 
 # Beschreibung
