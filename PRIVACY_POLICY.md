@@ -13,6 +13,6 @@ Diese App wurde nicht entwickelt, um personenbezogene oder auch nur persönliche
 
 Sollten dennoch Sicherheitsschwachstellen ersichtlich sein oder Fragen dazu bestehen, wie meine App deine Daten schützt, schreib mir gerne eine E-Mail. Ich werde mein Bestes mich dem Anliegen zufriedenstellend anzunehmen.
 
-Freundliche Grüße
-Ricardo Breßler
+Freundliche Grüße,<br>
+Ricardo Breßler<br>
 android@makroground.de
