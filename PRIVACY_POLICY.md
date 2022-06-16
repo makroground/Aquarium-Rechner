@@ -6,7 +6,7 @@ Danke dass du meine App Aquarium Rechner nutzt oder dich dafür interessierst.
 
 Es handelt sich hierbei um eine in der Freizeit entwickelte App von mir, Ricardo Breßler. Die App wird durch mich ausschließlich im Google Play Store bereitgestellt.
 
-Als gebürtiger Android-Nutzer seit Android 1.6 (Donut) weiß ich gut um den Funktionsumfang. Insbesondere bezogen auf Datenschutz, den ich persönlich ernst nehme.
+Als gebürtiger Android-Nutzer seit Android 1.6 (Donut) und innovationsverliebter Mensch weiß ich gut um den stetig wachsenden Funktionsumfang, insbesondere bezogen auf Datenschutz, den ich persönlich ernst nehme.
 Es ist irritierend bis nicht nachvollziehbar, wenn Apps deine Daten sammeln, ohne dich darüber in Kenntnis zu setzen oder keinen Zweck dafür nennen.
 
 Diese App wurde nicht entwickelt, um personenbezogene oder nur persönliche Daten zu erfassen, zu übertragen und dann außerdem deines Gerätes zu verarbeiten. Alle Daten (gespeicherte Werte zu deinen Aquarien, Einstellungen, etc.) werden nur lokal auf deinem Gerät gespeichert und können jederzeit durch die Deinstallation der App  vollständig von diesem bereinigt werden.
